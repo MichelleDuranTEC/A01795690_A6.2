@@ -1,0 +1,7 @@
+{
+    "C001": {
+        "cliente_id": "C001",
+        "nombre": "Nuevo Nombre",
+        "correo": "nuevo@example.com"
+    }
+}

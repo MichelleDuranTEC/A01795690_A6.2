@@ -1,0 +1,11 @@
+{
+    "H001": {
+        "hotel_id": "H001",
+        "nombre": "Hotel Central",
+        "ubicacion": "CDMX",
+        "habitaciones": {
+            "101": false,
+            "102": true
+        }
+    }
+}
